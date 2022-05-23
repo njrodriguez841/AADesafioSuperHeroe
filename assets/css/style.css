@@ -1,0 +1,17 @@
+body {
+    font-family: 'BenchNine', sans-serif;
+}
+
+.border {
+    border-color: aqua;
+}
+
+#small-font {
+    font-size: xx-small;
+    line-height: 90%;
+}
+
+#imagenCambio {
+    width: 600px;
+    height: 400px;
+}
